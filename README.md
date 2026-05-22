@@ -8,6 +8,9 @@ This project performs a comprehensive cohort analysis on a dataset of over 4,000
 ## Problem Statement
 The goal is to identify user drop-off patterns month-over-month, segment users by their geographical purchasing behaviors, understand the Customer Lifetime Value (CLTV) by customer region, and find actionable insights to reduce churn.
 
+## Data
+For this project the data was used was (Ecommerce Data)[https://www.kaggle.com/datasets/carrie1/ecommerce-data}
+
 ## Key Findings
 - **~79.4% drop-off in Month 1**: A massive early drop-off occurs in the first month following user onboarding. Our cohort data reveals that average retention stabilizes at **20.6%**.
 - **CLTV by Geographical Region**: **EIRE** yields the highest Customer Lifetime Value among our top 5 countries, significantly outperforming base averages.
