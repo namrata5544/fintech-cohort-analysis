@@ -36,7 +36,7 @@ The generated **Dashboard Summary** (`dashboard.png`) visualizes the four core i
 3. **Month 1 Churn Trend**: Maps exactly the inverse of retention across different onboarding groups, highlighting how volatile onboarding was particularly during mid-2011 (Peak Churn mapping to cohort month **2011-11**).
 4. **Spending Growth (First 24 Months)**: Demonstrates that while active users volume plummets initially, the users who stay continue scaling their transactional commitment over time.
 
-[Dashboard Summary](notebooks/dashboard.png)
+![Dashboard Summary](notebooks/dashboard.png)
 
 ## How to Run
 1. Navigate to the `data/` directory and download the dataset as instructed in `data/README.md`.
