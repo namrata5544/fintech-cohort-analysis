@@ -9,7 +9,7 @@ This project performs a comprehensive cohort analysis on a dataset of over 4,000
 The goal is to identify user drop-off patterns month-over-month, segment users by their geographical purchasing behaviors, understand the Customer Lifetime Value (CLTV) by customer region, and find actionable insights to reduce churn.
 
 ## Data
-For this project the data was used was (Ecommerce Data)[https://www.kaggle.com/datasets/carrie1/ecommerce-data}
+For this project the data was used was [Ecommerce Data](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
 
 ## Key Findings
 - **~79.4% drop-off in Month 1**: A massive early drop-off occurs in the first month following user onboarding. Our cohort data reveals that average retention stabilizes at **20.6%**.
@@ -36,7 +36,7 @@ The generated **Dashboard Summary** (`dashboard.png`) visualizes the four core i
 3. **Month 1 Churn Trend**: Maps exactly the inverse of retention across different onboarding groups, highlighting how volatile onboarding was particularly during mid-2011 (Peak Churn mapping to cohort month **2011-11**).
 4. **Spending Growth (First 24 Months)**: Demonstrates that while active users volume plummets initially, the users who stay continue scaling their transactional commitment over time.
 
-![Dashboard Summary](notebooks/dashboard.png)
+[Dashboard Summary](notebooks/dashboard.png)
 
 ## How to Run
 1. Navigate to the `data/` directory and download the dataset as instructed in `data/README.md`.
